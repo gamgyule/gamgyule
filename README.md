@@ -4,8 +4,8 @@
 
 <h3 align="center">Hi, I'm Gyul 👋</h3>
 <p align="center">
-  백엔드 설계와 문제 해결에 강점을 가진 개발자입니다.  
-  구조화된 설계, 빠른 실행력, 운영 경험을 바탕으로 실제 서비스 구현에 집중해왔습니다.
+  실시간 데이터 처리와 AI 활용 서비스 개발에 집중하는 개발자입니다.  
+  암호화폐 포트폴리오 플랫폼부터 LLM 기반 기능까지 직접 설계하고 운영하고 있습니다.
 </p>
 
 ---
@@ -16,29 +16,30 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
 ![WebFlux](https://img.shields.io/badge/WebFlux-000000?style=flat-square&logo=reactivex&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 
 #### ⚙ Infra & DevOps
 ![Oracle Cloud](https://img.shields.io/badge/Oracle--Cloud-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white)
 
-#### 📦 DB
+#### 📦 Database
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
 
-#### 🧠 AI/NLP
+#### 🧠 AI / LLM
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-00B4A8?style=flat-square)
 
-#### 💻 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+#### 📱 Frontend
+![React Native](https://img.shields.io/badge/React--Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=Tailwind-CSS&logoColor=white)
 
 ---
@@ -87,9 +88,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamgyule&layout=compact&theme=default" />
 </p>
-
----
-
-### 📫 Contact
-
-[![Tistory](https://img.shields.io/badge/Blog-Tistory-orange?style=flat-square&logo=tistory&logoColor=white)](https://gamgyule.tistory.com)
