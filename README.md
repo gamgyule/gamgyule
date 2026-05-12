@@ -45,20 +45,20 @@
 
 ### 🧪 Side Projects
 
-#### 🎯 Chatterhub  
-> 시나리오 기반 + RAG + GPT 통합 챗봇 플랫폼
+#### 💸 [GGPP - 암호화폐 포트폴리오 관리 앱](https://antinsights.com)  
+> 거래소 연동 기반 암호화폐 자산 통합 관리 플랫폼
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring--Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
 ![WebFlux](https://img.shields.io/badge/WebFlux-000000?style=flat-square&logo=reactivex&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-00B4A8?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle--Cloud-F80000?style=flat-square&logo=Oracle&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
+![React Native](https://img.shields.io/badge/React--Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
