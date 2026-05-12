@@ -52,6 +52,8 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring--Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
 ![WebFlux](https://img.shields.io/badge/WebFlux-000000?style=flat-square&logo=reactivex&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle--Cloud-F80000?style=flat-square&logo=Oracle&logoColor=white)
