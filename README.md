@@ -46,7 +46,7 @@
 
 ### 🧪 Side Projects
 
-#### 💸 [GGPP - 암호화폐 포트폴리오 관리 앱](https://antinsights.com)  
+#### 💸 [앤트 - 암호화폐 포트폴리오 관리 앱](https://antinsights.com)  
 > 거래소 연동 기반 암호화폐 자산 통합 관리 플랫폼
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
